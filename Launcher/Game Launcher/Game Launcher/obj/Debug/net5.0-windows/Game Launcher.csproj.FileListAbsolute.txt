@@ -1,0 +1,55 @@
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher_MarkupCompile.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher_MarkupCompile.lref
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.exe
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.deps.json
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.runtimeconfig.json
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.runtimeconfig.dev.json
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\ref\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.pdb
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Assets\icons.baml
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.g.resources
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.AssemblyInfoInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.AssemblyInfo.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\ref\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.pdb
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.genruntimeconfig.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.exe
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.deps.json
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.runtimeconfig.json
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.runtimeconfig.dev.json
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\ref\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\Game Launcher.pdb
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Assets\icons.baml
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher_MarkupCompile.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher_MarkupCompile.lref
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.g.resources
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.AssemblyInfoInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.AssemblyInfo.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\ref\Game Launcher.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.pdb
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.genruntimeconfig.cache
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\Sherlon\Desktop\Repository\Launcher and Games\Launcher\Game Launcher\Game Launcher\obj\Debug\net5.0-windows\Game Launcher.csproj.CopyComplete

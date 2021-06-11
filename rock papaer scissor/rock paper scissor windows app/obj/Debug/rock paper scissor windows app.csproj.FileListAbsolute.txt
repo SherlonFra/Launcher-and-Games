@@ -1,0 +1,10 @@
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\bin\Debug\rock paper scissor windows app.exe.config
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\bin\Debug\rock paper scissor windows app.exe
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\bin\Debug\rock paper scissor windows app.pdb
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock paper scissor windows app.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock_paper_scissor_windows_app.Form1.resources
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock_paper_scissor_windows_app.Properties.Resources.resources
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock paper scissor windows app.csproj.GenerateResource.cache
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock paper scissor windows app.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock paper scissor windows app.exe
+C:\Users\Sherlon\Desktop\Repository\Rock Paper Scissor Project\windows application\rock papaer scissor\rock paper scissor windows app\obj\Debug\rock paper scissor windows app.pdb
